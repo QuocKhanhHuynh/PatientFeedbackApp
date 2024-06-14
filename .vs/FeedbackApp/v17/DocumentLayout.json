@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TTTT\\Project1\\Application\\FeedbackApp - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B9F4D6-5BAC-43FC-87E7-EE5EE7046E2F}|FeedbackApp\\FeedbackApp.csproj|D:\\TTTT\\Project1\\Application\\FeedbackApp - Copy\\feedbackapp\\utilities\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B9F4D6-5BAC-43FC-87E7-EE5EE7046E2F}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\utilities\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B9F4D6-5BAC-43FC-87E7-EE5EE7046E2F}|FeedbackApp\\FeedbackApp.csproj|d:\\tttt\\project1\\application\\feedbackapp - copy\\feedbackapp\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B9F4D6-5BAC-43FC-87E7-EE5EE7046E2F}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\TTTT\\Project1\\Application\\FeedbackApp - Copy\\Setup\\Setup.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Setup\\Setup.aip||{AE40A4D1-A614-4A08-B9E2-B74E011783ED}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "D:\\TTTT\\Project1\\Application\\FeedbackApp - Copy\\FeedbackApp\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Services\\FeedbackService.cs",
+              "ToolTip": "D:\\TTTT\\Project1\\Application\\FeedbackApp - Copy\\FeedbackApp\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "FeedbackApp\\Services\\FeedbackService.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAgwIMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:07:50.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectDb.cs",
+              "DocumentMoniker": "D:\\TTTT\\Project1\\Application\\FeedbackApp - Copy\\FeedbackApp\\Utilities\\ConnectDb.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Utilities\\ConnectDb.cs",
+              "ToolTip": "D:\\TTTT\\Project1\\Application\\FeedbackApp - Copy\\FeedbackApp\\Utilities\\ConnectDb.cs",
+              "RelativeToolTip": "FeedbackApp\\Utilities\\ConnectDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:35:39.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Setup.aip",
+              "DocumentMoniker": "D:\\TTTT\\Project1\\Application\\FeedbackApp - Copy\\Setup\\Setup.aip",
+              "RelativeDocumentMoniker": "Setup\\Setup.aip",
+              "ToolTip": "D:\\TTTT\\Project1\\Application\\FeedbackApp - Copy\\Setup\\Setup.aip",
+              "RelativeToolTip": "Setup\\Setup.aip",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKaSURBVEhLrZVbiE1RGMf3jDHIk4kZ5ZbyIjrlgcTI5J4pY8ot0eCJkqQGpRhvopS78jKHUd5mKIrcEsXDIMdRImNCaTDKNCHG8fuvvdZunzN77zkT//qd71v78v3XWnutdUq8kHoPTa4kvIZ7cBduw9ORezv\u002BEAevXC5XaLCecNFvBfoKMrwFdyCLYY5YlEptdFpoY1ijoA6OQwa66MglqJ67rXUI7UQVY1Co0bAWJsA5TC7DTN2IUjBF9GgK4ZXfKkpVSzqPPiaOA03ZMdj94Ez9L2Kg8AgW2RinN7APWiFD8Qqiikvq6E64ymhGmCtWxRr8/Pi7YgFFy2E/bU3RSnMnX4shjUkwMyZhemT0CdSrKGUpvJr4AnrhIcyHMohSA1N1XokbwQwIF38Cq2AzdMDUaxMb1ZnlMAveQlxx6QijGKbEGRSunnX0uBamkavnpWUlfe03Ju3aAY20L\u002BihBGnDrlHiDLSRTkLWtDzvB9SApuGzLqDhsAw6QR\u002B8HZJUqx9jQE8b4CXo41We7q7/TtRq2ACnIKybzO87oqbrm7kSrTn6cSPYAifgOSaZtp55GslYmA1bYSOkQTv5EXiYdBHalMdI7wcG5TZKVTDGT700hts5e1pgE6QgvJF0TsVpqH6cQY\u002BNUaoNr2sney3paDE1nYH7uFGaDgf8NE\u002B6pntxMjVNz\u002BiNHm5SnqD7cMVPvRVQ7aexauI7HXQj0Lru89NYqeBhy0DFVcvsFWOAk9Z1s/L/pGZbM/gG0h744Kf/JNVQLaPAAMcvBP1zJW2egaR362wto/AIZKLtryNCO3Ww0js1tkagPAOJB3SSpuAs5P07xUjP6NmUfTdP/TZQWCzf8QSdR0tBpu5I74ZncB1aKPxeF/vL8/4Cr4HHiTjeNBMAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-26T10:49:03.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
